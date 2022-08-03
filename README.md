@@ -1,7 +1,7 @@
 # Laboratório 2 de Python: Noite de Sono
 Segundo projeto para submissão em Python de MC102 (Algoritmos e Programação de Computadores), curso ministrado pela UNICAMP.
 
-Dando continuidade aos projetos desenvolvidos nos laboratórios de MC102 (explicação no repositório "IniciandoEmPython" através do link: https://github.com/laratoledom/IniciandoEmPython/blob/main/README.md), temos como proposta de desenvolvimento do código o seguinte problema:
+Dando continuidade aos projetos desenvolvidos nos laboratórios de MC102 (explicação no repositório ["IniciandoEmPython"](https://github.com/laratoledom/IniciandoEmPython/blob/main/README.md), temos como proposta de desenvolvimento do código o seguinte problema:
 
 " João, seu colega de faculdade, está preocupado com o rendimento acadêmico dele. A notas dele no semestre passado não foram tão boas, então ele quer mudar alguns hábitos para tentar aproveitar melhor os estudos. Ele percebeu que no último semestre não conseguiu dormir muito bem, ficando acordado vários dias da semana até tarde, e, por isso, não conseguiu boas notas, por estar cansado durante as aulas. Portanto, neste semestre, ele quer mudar o estilo de vida, indo dormir sempre antes da meia noite.
 
@@ -16,5 +16,5 @@ Dando continuidade aos projetos desenvolvidos nos laboratórios de MC102 (explic
 
 O seu programa deve imprimir “True”, caso João tenha dormido pelo menos 8 horas, ou “False”, caso contrário."
 
-Observações:
-O arquivo foi executado através do PyCharm e no arquivo "testes" podem ser encontrados alguns exemplos de teste que verificam o código.
+**Observações:**
+O arquivo foi executado através do PyCharm e no arquivo "testes" podem ser encontrados alguns exemplos de testes que verificam o código.
