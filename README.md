@@ -16,5 +16,6 @@ Dando continuidade aos projetos desenvolvidos nos laboratórios de MC102 (explic
 
 O seu programa deve imprimir “True”, caso João tenha dormido pelo menos 8 horas, ou “False”, caso contrário."
 
-**Observações:**
+_________________________________________________________________________________________________________________________________________________________________________
+<b>Observações:</b>
 O arquivo foi executado através do PyCharm e no arquivo "testes" podem ser encontrados alguns exemplos de testes que verificam o código.
